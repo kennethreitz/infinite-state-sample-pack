@@ -2,6 +2,8 @@
 
 Open Source Loops and Samples from Infinite State™
 
+Syntesiers sampled include: MakeNoise 0-Coast, Roland JP-08, Moog Sub37, Korg Monolouge, Korg VolcaKeys, Arturia MicroBrute, Roland TR-8, and NI Monark.
+
 This pack includes:
 
 - Drum loops by Kenneth Reitz, with many variations
