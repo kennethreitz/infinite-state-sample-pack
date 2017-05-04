@@ -2,9 +2,7 @@
 
 Open Source Loops and Samples from Infinite State™
 
-<img src="http://media.kennethreitz.com.s3.amazonaws.com/samplepack.svg" width="100px" />
-
-![](http://media.kennethreitz.com.s3.amazonaws.com/samplepack.svg)
+<img src="http://media.kennethreitz.com.s3.amazonaws.com/samplepack.svg" width="150px" />
 
 
 Synthesizers sampled include: MakeNoise 0-Coast, Roland JP-08, Moog Sub37, Korg Monolouge, Korg VolcaKeys, Arturia MicroBrute, Roland TR-8, and NI Monark.
