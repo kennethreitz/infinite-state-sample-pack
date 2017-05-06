@@ -1,4 +1,4 @@
-# Infinite State Sample Pack
+# Infinite State's Open Source Sample Pack
 
 Open Source Loops and Samples from Infinite State™. [Download now for free](https://github.com/kennethreitz/infinite-state-sample-pack/archive/master.zip)!
 
