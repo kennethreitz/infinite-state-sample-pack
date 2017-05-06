@@ -8,7 +8,7 @@ This pack includes:
 
 - C note samples from a **large** variety of **analog** and digital synthesizers.
 - Drum loops by Kenneth Reitz, with many variations.
-- Pre-made Ableton Live presets.
+- Presets (Instrument Racks) for Ableton Live.
 - Samples for the Teenage Engineering OP-1 Synthesizer.
 
 Synthesizers sampled include: 
