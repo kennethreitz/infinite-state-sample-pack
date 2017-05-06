@@ -6,10 +6,10 @@ Open Source Loops and Samples from Infinite State™. [Download now for free](ht
 
 This pack includes:
 
+- C note samples from a **large** variety of **analog** and digital synthesizers.
 - Drum loops by Kenneth Reitz, with many variations.
-- C samples from a large variety of analog and digital synthesizers.
 - Pre-made Ableton Live presets.
-- Samples for the OP-1 Synthesizer.
+- Samples for the Teenage Engineering OP-1 Synthesizer.
 
 Synthesizers sampled include: 
 
