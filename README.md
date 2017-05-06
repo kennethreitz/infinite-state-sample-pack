@@ -1,6 +1,6 @@
 # Infinite State Sample Pack
 
-Open Source Loops and Samples from Infinite State™
+Open Source Loops and Samples from Infinite State™. [Download now for free](https://github.com/kennethreitz/infinite-state-sample-pack/archive/master.zip)!
 
 <img src="http://media.kennethreitz.com.s3.amazonaws.com/samplepack.svg" width="150px" />
 
